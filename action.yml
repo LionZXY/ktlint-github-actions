@@ -1,0 +1,7 @@
+name: 'Ktlint'
+description: 'This action can be used to run ktlint'
+author: 'lionzxy'
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
