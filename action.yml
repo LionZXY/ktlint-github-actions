@@ -1,4 +1,4 @@
-name: 'Ktlint'
+name: 'Ktlint CLI'
 description: 'This action can be used to run ktlint'
 author: 'lionzxy'
 
